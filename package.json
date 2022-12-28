@@ -1,11 +1,11 @@
 {
   "name": "echo-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple echo server",
   "main": "index.js",
   "scripts": {
     "build": "echo building project",
-    "start": "node index.js"
+    "start": "node --omit=dev index.js"
   },
   "repository": {
     "type": "git",
