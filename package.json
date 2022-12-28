@@ -1,9 +1,10 @@
 {
   "name": "echo-server",
   "version": "1.0.0",
-  "description": "--- title: Node HTTP Module description: A HTTP module server tags:   - http   - nodejs   - javascript ---",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "echo building project",
     "start": "node index.js"
   },
   "repository": {
